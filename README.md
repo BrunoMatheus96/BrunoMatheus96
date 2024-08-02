@@ -1,4 +1,30 @@
 
+
+<!-- Example of age text -->
+<p align="center">
+  I'm 22 years old
+</p>
+
+<!-- Example of GitHub stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&hide=issues&count_private=true&theme=dark&hide_border=true" alt="SeuUsuario's github stats" />
+</p>
+
+<!-- Example of most used languages -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+
+## Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMatheus96&layout=compact&theme=dark)
+
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMatheus96&show_icons=true&theme=dark)
+
+
 # Olá 👋
 
 Bem vindo ao meu perfil!
@@ -34,13 +60,5 @@ Bem vindo ao meu perfil!
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=dl&logoColor=white&color=000000)
 ![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white&color=000000)
 ![Visão Computacional](https://img.shields.io/badge/Vis%C3%A3o_Computacional-FF6F00?style=for-the-badge&logo=opencv&logoColor=white&color=000000)
-
-## Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMatheus96&layout=compact&theme=dark)
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMatheus96&show_icons=true&theme=dark)
 
 
