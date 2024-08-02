@@ -1,7 +1,5 @@
 
-# Olá 👋
-
-## Bem vindo ao meu perfil!
+# Bem vindo(a) ao meu perfil👋
 
 
 - 🔭 Futuro Engenheiro de IA
