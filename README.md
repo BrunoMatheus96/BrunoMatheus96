@@ -1,36 +1,17 @@
 
-
-<!-- Example of age text -->
-<p align="center">
-  I'm 28 years old
-  My name is Bruno Leite
-</p>
-
-<!-- Example of GitHub stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoMatheus96&show_icons=true&hide=issues&count_private=true&theme=dark&hide_border=true" alt="BrunoMatheus96's github stats" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMatheus96&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-
-## Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMatheus96&layout=compact&theme=dark)
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoMatheus96&show_icons=true&theme=dark)
-
-
 # Olá 👋
 
-Bem vindo ao meu perfil!
+##Bem vindo ao meu perfil!
 
 
 - 🔭 Futuro Engenheiro de IA
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/bruno-m-s-leite/) e [Email](mailto:b.stefanoleite@gmail.com)
-- ⚡  Curiosidade: Amo resolver problemas e estudar
+
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoMatheus96&show_icons=true&hide=issues&count_private=true&theme=dark&hide_border=true" alt="BrunoMatheus96's github stats" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMatheus96&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 
 ## Estudando no Momento
