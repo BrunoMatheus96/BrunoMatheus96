@@ -2,13 +2,15 @@
 
 <!-- Example of age text -->
 <p align="center">
-  I'm 22 years old
+  I'm 28 years old
+  My name is Bruno Leite
 </p>
 
 <!-- Example of GitHub stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&hide=issues&count_private=true&theme=dark&hide_border=true" alt="SeuUsuario's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoMatheus96&show_icons=true&hide=issues&count_private=true&theme=dark&hide_border=true" alt="BrunoMatheus96's github stats" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMatheus96&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 
