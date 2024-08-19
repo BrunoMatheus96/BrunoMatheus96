@@ -3,7 +3,7 @@
 
 
 - 🔭 Futuro Engenheiro de IA
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/bruno-m-s-leite/) e [Email](mailto:b.stefanoleite@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/bruno-m-s-leite/) e b.stefanoleite@gmail.com
 
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoMatheus96&show_icons=true&hide=issues&count_private=true&theme=dark&hide_border=true" alt="BrunoMatheus96's github stats" />
