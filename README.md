@@ -18,7 +18,7 @@
 
 
 ## Habilidades Principais
-![Python](https://camo.githubusercontent.com/a3f2c80768f2e7b18ac478321645871aa52600be5c52cb68ee704fe8e17a57ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d707974686f6e2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d313537324236266c6162656c436f6c6f723d304431313137) 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
