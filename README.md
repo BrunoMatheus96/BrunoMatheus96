@@ -2,6 +2,7 @@
 # Bem vindo(a) ao meu perfil👋
 
 
+- 🔭 QA Atualmente
 - 🔭 Futuro Engenheiro de IA
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/bruno-m-s-leite/) e b.stefanoleite@gmail.com
 
