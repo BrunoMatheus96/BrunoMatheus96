@@ -3,7 +3,7 @@
 
 
 - 🐞 QA
-- 🔭 Futuro Engenheiro de IA
+- 🔭 Futuro Arquiteto de Soluções focado em Automação e Hiperautomação
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/bruno-m-s-leite/) e b.stefanoleite@gmail.com
 
   <p align="center">
