@@ -14,8 +14,11 @@
 
 
 ## Estudando no Momento
+![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-FF6F00?style=for-the-badge&logo=ai&logoColor=white&color=000000)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=ml&logoColor=white&color=000000)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=dl&logoColor=white&color=000000)
+![Visão Computacional](https://img.shields.io/badge/Vis%C3%A3o_Computacional-FF6F00?style=for-the-badge&logo=opencv&logoColor=white&color=000000)
 
-![Ciência de Daods](https://img.shields.io/badge/Ciencia_de_dados-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## Habilidades Principais
@@ -31,11 +34,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Interesse em Aprender
 
-![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-FF6F00?style=for-the-badge&logo=ai&logoColor=white&color=000000)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=ml&logoColor=white&color=000000)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=dl&logoColor=white&color=000000)
-![Visão Computacional](https://img.shields.io/badge/Vis%C3%A3o_Computacional-FF6F00?style=for-the-badge&logo=opencv&logoColor=white&color=000000)
 
 
