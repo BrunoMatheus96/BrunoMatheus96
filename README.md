@@ -17,7 +17,6 @@
 ![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-FF6F00?style=for-the-badge&logo=ai&logoColor=white&color=000000)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=ml&logoColor=white&color=000000)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=dl&logoColor=white&color=000000)
-![Visão Computacional](https://img.shields.io/badge/Vis%C3%A3o_Computacional-FF6F00?style=for-the-badge&logo=opencv&logoColor=white&color=000000)
 ![RPA](https://img.shields.io/badge/RPA-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white&color=000000)
 
 
@@ -27,12 +26,10 @@
 
 
 ## Ferramentas
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![Power BI](https://img.shields.io/badge/Power_BI-F7C300?style=for-the-badge&logo=powerbi&logoColor=white&color=F7C300)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
