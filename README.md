@@ -7,13 +7,6 @@
 - 🔭 Futuro Arquiteto de Soluções focado em Automação e Hiperautomação
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/bruno-m-s-leite/) e b.stefanoleite@gmail.com
 
-  <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoMatheus96&show_icons=true&hide=issues&count_private=true&theme=dark&hide_border=true" alt="BrunoMatheus96's github stats" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMatheus96&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-
 ## Estudando no Momento
 
 
