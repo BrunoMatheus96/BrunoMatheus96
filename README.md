@@ -3,6 +3,7 @@
 
 
 - 🐞 QA
+- 🔭 Futuro Engenheiro de Dados
 - 🔭 Futuro Arquiteto de Soluções focado em Automação e Hiperautomação
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/bruno-m-s-leite/) e b.stefanoleite@gmail.com
 
@@ -14,10 +15,6 @@
 
 
 ## Estudando no Momento
-![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-FF6F00?style=for-the-badge&logo=ai&logoColor=white&color=000000)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=ml&logoColor=white&color=000000)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=dl&logoColor=white&color=000000)
-![RPA](https://img.shields.io/badge/RPA-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white&color=000000)
 
 
 ## Habilidades Principais
